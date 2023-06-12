@@ -1,0 +1,13 @@
+code: childpage
+parentCode: homepage
+titles:
+  en: Child Page
+  it: Child Page
+pageModel: parentpage
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf8
+status: published
+widgets: []

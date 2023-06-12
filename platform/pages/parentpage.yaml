@@ -1,0 +1,13 @@
+code: parentpage
+parentCode: homepage
+titles:
+  en: Parent Page
+  it: Parent Page
+pageModel: 1-column
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf8
+status: published
+widgets: []
