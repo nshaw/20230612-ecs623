@@ -4,10 +4,10 @@ titles:
   en: Parent Page
   it: Parent Page
 pageModel: 1-column
-ownerGroup: free
+ownerGroup: administrators
 joinGroups: []
 displayedInMenu: true
 seo: false
-charset: utf8
+charset: utf-8
 status: published
 widgets: []

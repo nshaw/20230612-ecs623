@@ -1,13 +1,13 @@
 code: childpage
-parentCode: homepage
+parentCode: parentpage
 titles:
   en: Child Page
   it: Child Page
-pageModel: parentpage
-ownerGroup: free
+pageModel: 1-column
+ownerGroup: administrators
 joinGroups: []
 displayedInMenu: true
 seo: false
-charset: utf8
+charset: utf-8
 status: published
 widgets: []
